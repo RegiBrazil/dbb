@@ -4,7 +4,7 @@ Example..
 Will delete all buildings under J02MortgageCICS  
 or
 2.2 when you specify the --id like:
-/var/dbb/v.1.0.6/oovyz Pruner.groovy --id 492
+/var/dbb/v.1.0.6/bin/groovyz Pruner.groovy --id 664
 
 
 
