@@ -1,3 +1,14 @@
+Example..
+1. Open a UNIX shell go to /tmp/DBB_Utilities 
+2.1 use: /var/dbb/v.1.0.6/bin/groovyz Pruner.groovy --groupName J02MortgageCICS
+Will delete all buildings under J02MortgageCICS  
+or
+2.2 when you specify the --id like:
+/var/dbb/v.1.0.6/oovyz Pruner.groovy --id 492
+
+
+
+
 # Samples/Utilities Folder
 The Utilities folder is comprised of additional scripts to provided additional capabilities of IBM's Dependency Based Build. Currently, the scripts provided in this folder are:
 * Pruner.groovy: allows the user to prune build results in the DBB Repository Web Application.
